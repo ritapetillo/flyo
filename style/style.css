@@ -198,4 +198,11 @@
   .shape__right-bottom {
     padding-bottom: 20px;
   }
+
+  .container {
+    background-image: url(../images/bg-desktop.png);
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-position: top;
+  }
 }
